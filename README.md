@@ -1,6 +1,7 @@
 # hello-world
 
-Spoken by Jellyfish2016 robot-to-be.
+To be edited by Jellyfish_2017 software contributors.
+
 This is a repository exercise to get all our software builders in-sync on using GitHub to collaborate.
 If you maded this far, you are one step closer to setting up your software development environment.
 Play with the tool, to get familiar on how to:
@@ -13,18 +14,21 @@ Detail examples can be found at "https://guides.github.com/activities/hello-worl
 Note not to create a new repository in Step 1 of above example.  
 You want to work with the existing repository from this "shsvbjv / hello-world" repository; 
 so you can add your name at the end of this file.
+This similar concept, one repository in the GitHub cloud, will be used to help us keep our software codes
+in sync with eachother.  The goal is to execute a "branch" from the cloud to modify file(s) locally
+on your compuater, then perform "commit/pull request/merge" to get your VERIFIED changes back onto 
+master trunk as quickly as feasible.
 
 There is more info on the concept of GitHub at "https://guides.github.com/introduction/flow/".
-Don't forget to also get the latest Android Studio (Version 2.2, as of 9/19/2016) for IDE.
+Don't forget to also get the latest Android Studio (Version 2.33, as of 9/4/2017) for IDE.
 
 Congrats!!
 
 
 ~~~~~~~~~  Add your names under this line, so we know that you are GitHub ready!! ~~~~~~~~
  1. Steve (mentor)
- 2. Arun Katkere (technical mentor/software)
- 3. Shivam Mani
- 4. LaiLing Chiou (software mentor)
- 5. Shreya Katkere
- 6. Nandini Thakur
- 7. Trina Chatterjee
+ 2. 
+ 3. 
+ 4. 
+ 5. 
+ 
