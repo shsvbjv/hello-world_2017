@@ -32,7 +32,7 @@ Congrats!!
 ~~~~~~~~~  Add your names under this line, so we know that you are GitHub ready!! ~~~~~~~~
  1. Steve (mentor)
  2. Kyle P.
- 3. 
+ 3. Oliver Sun
  4. 
  5. 
  
